@@ -9,11 +9,8 @@
 [title-img]:https://img.shields.io/badge/-Sleek--Digital-red
 [profile]:https://github.com/SleekDigital-WorkShop    
 
-## About this organization
-<img src="https://github.com/SleekDigital-WorkShop/.github/blob/main/profile/SleekDigital.png" align="right" alt="SleekDigital logo" width="150" height="150">
-
-# SleekDigital
 ## Global SaaS Engineering Partners
+<img src="https://github.com/SleekDigital-WorkShop/.github/blob/main/profile/SleekDigital.png" align="right" alt="SleekDigital logo" width="150" height="150">
 
 *SleekDigital* is a Singapore‑headquartered software engineering firm specializing exclusively in the design, development, and scaling of SaaS platforms for clients across North America, Europe, Asia‑Pacific, and the Middle East.
 
